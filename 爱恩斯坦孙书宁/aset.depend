@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1607852046 source:c:\users\dell\desktop\aset\aset\aest.cpp
+	"aest.h"
+
+1607854298 c:\users\dell\desktop\aset\aset\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1266069014 e:\codeblocks-epwin7special\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266069014 e:\codeblocks-epwin7special\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1607908540 source:c:\users\hp\desktop\aset\aset\aest.cpp
+	"aest.h"
+
+1607910775 c:\users\hp\desktop\aset\aset\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1266058214 e:\c语言\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266058214 e:\c语言\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1607926287 source:c:\users\dell\desktop\蒙特卡洛和估值完成\蒙特卡洛和估值完成\aset\aest.cpp
+	"aest.h"
+
+1607933240 c:\users\dell\desktop\蒙特卡洛和估值完成\蒙特卡洛和估值完成\aset\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1608691226 source:c:\users\hp\desktop\极大极小在写\蒙特卡洛和估值完成\aset\aest.cpp
+	"aest.h"
+
+1608692549 c:\users\hp\desktop\极大极小在写\蒙特卡洛和估值完成\aset\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1608771519 source:c:\users\dell\desktop\负极大极小在写\aset\aest.cpp
+	"aest.h"
+
+1608771660 c:\users\dell\desktop\负极大极小在写\aset\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1608776646 source:c:\users\hp\desktop\在写\负极大极小在写\aset\aest.cpp
+	"aest.h"
+
+1608984226 c:\users\hp\desktop\在写\负极大极小在写\aset\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1608990803 source:c:\users\hp\desktop\aest\aest.cpp
+	"aest.h"
+
+1608984226 c:\users\hp\desktop\aest\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1610177119 source:c:\users\hp\desktop\爱恩斯坦棋\aest.cpp
+	"aest.h"
+
+1611040093 c:\users\hp\desktop\爱恩斯坦棋\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
+1610176803 source:c:\users\hp\desktop\爱恩斯坦棋\ql.cpp
+	"ql.h"
+
+1610176939 c:\users\hp\desktop\爱恩斯坦棋\ql.h
+	"winbgim.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+	<fstream>
+
+1616508734 source:c:\users\dell\desktop\爱恩斯坦棋\爱恩斯坦棋\aest.cpp
+	"aest.h"
+
+1617177457 c:\users\dell\desktop\爱恩斯坦棋\爱恩斯坦棋\aest.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+	<windows.h>
+	<math.h>
+	<vector>
+	<ctime>
+
